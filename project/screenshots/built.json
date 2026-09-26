@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SignHome",
+      "hasCanvas": false,
+      "bodyTextLen": 1257,
+      "bodyTextHash": "69907484ef8913ab7cd446c54fd21ca08eb08621ef4c544bdde1e240e4442f7c",
+      "bodyTextPrefix": "SignHomeASL CONTROL Control Guide Offline camera Control center ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SignHome",
+      "hasCanvas": false,
+      "bodyTextLen": 1231,
+      "bodyTextHash": "1dffc1fe77b334a967e7b28ca67929b8eb9de51d2adf06c297e022c1c5b4fbfc",
+      "bodyTextPrefix": "SignHome Control Guide Control center Sign with one hand. MediaP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
